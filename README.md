@@ -1,5 +1,5 @@
 # llms_projects-tva_tn
-repond aux question consernant la tva en tunisie
+repond aux question consernant la tva en tunisie\n
 
 you have to first open a qudrant docker container
 use the "chunk_into_qdrant_vbd" to chunk the pdf files in the folder data
